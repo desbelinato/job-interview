@@ -1,0 +1,8 @@
+{
+    "level": "info",
+    "format": "",
+    "filename": "log/application-%DATE%.log",
+    "datePattern": "YYYY-MM-DD-HH",
+    "maxSize": "20m",
+    "maxFiles": "14d"
+}
